@@ -4,3 +4,5 @@ Papel Higienico
 Jabon
 Ketchup
 Pan
+Bananas
+Limones
